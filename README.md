@@ -1,6 +1,7 @@
 Algoritmos de Ordenação
 
 Este repositório apresenta os principais algoritmos de ordenação, suas características, funcionamento e melhores usos. É ideal comparação e escolha do algoritmo mais adequado para cada situação.
+
 1.Selection Sort (Ordenação por Seleção)
 
 Como funciona:
